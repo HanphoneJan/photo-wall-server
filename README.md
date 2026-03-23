@@ -154,4 +154,12 @@ php -S 127.0.0.1:3003 application.php
 
 ## 📊 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=HanphoneJan/photo-wall-server&type=Date)](https://star-history.com/#HanphoneJan/photo-wall-server&Date)
+## Star History
+
+<a href="https://www.star-history.com/?repos=HanphoneJan%2Fphoto-wall-server&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=HanphoneJan/photo-wall-server&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=HanphoneJan/photo-wall-server&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=HanphoneJan/photo-wall-server&type=date&legend=top-left" />
+ </picture>
+</a>
